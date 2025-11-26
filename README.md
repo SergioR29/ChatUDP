@@ -9,7 +9,7 @@ Entorno de Desarrollo: **_Eclipse IDE_**
 Protocolo de Comunicaciones: **_UDP_**  
 
 ## Requerimientos para su ejecución
-JVM (17 o 21 recomendados) instalado en el PC de cada una de las 2 personas a comunicarse para poder ejecutar los ficheros JAR en el fichero ZIP del lanzamiento publicado.
+JVM (17 o 21 recomendados como versiones a instalar) instalado en el PC de cada una de las 2 personas a comunicarse para poder ejecutar los ficheros JAR en el fichero ZIP del lanzamiento publicado.
 
 ## Instrucciones de instalación y de uso
 1. Descargar el ZIP que contiene los ficheros JAR publicado en el lanzamiento del proyecto [aquí](https://github.com/SergioR29/ChatUDP/releases).
