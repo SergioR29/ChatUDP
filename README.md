@@ -7,3 +7,8 @@ Programa de consola en Java que consiste en un chat entre un módulo servidor y 
 Lenguaje de Programación: **_Java_**  
 Entorno de Desarrollo: **_Eclipse IDE_**  
 Protocolo de Comunicaciones: **_UDP_**  
+
+## Requerimientos para su ejecución
+JVM (17 o 21 recomendados) instalado en el PC para poder ejecutar los ficheros JAR en el fichero ZIP del lanzamiento publicado.
+
+## Instrucciones de instalación
