@@ -27,7 +27,5 @@ JVM (17 o 21 recomendados como versiones a instalar) instalado en el PC de cada 
 <img width="674" height="362" alt="Captura de pantalla 2025-11-26 132222" src="https://github.com/user-attachments/assets/13ed8163-8f3a-46e2-9bfc-036b0c1c3593" />
 
 ## Ejemplo de uso (módulo cliente == persona 2)
-<img width="673" height="283" alt="Captura de pantalla 2025-11-26 132231" src="https://github.com/user-attachments/assets/a9774b27-2185-4b9d-b3ae-2d90c3996068" />  
-  
-
+<img width="673" height="283" alt="Captura de pantalla 2025-11-26 132231" src="https://github.com/user-attachments/assets/a9774b27-2185-4b9d-b3ae-2d90c3996068" />    
 - También el cliente puede introducir la IP de su equipo (para verla en el CMD puede introducir el comando ipconfig) y si no sabe "localhost".
