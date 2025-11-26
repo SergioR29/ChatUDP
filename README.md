@@ -12,7 +12,7 @@ Protocolo de Comunicaciones: **_UDP_**
 JVM (17 o 21 recomendados) instalado en el PC de cada una de las 2 personas a comunicarse para poder ejecutar los ficheros JAR en el fichero ZIP del lanzamiento publicado.
 
 ## Instrucciones de instalación
-1. Descargar el ZIP con los ficheros JAR publicado en el lanzamiento del proyecto.
+1. Descargar el ZIP con los ficheros JAR publicado en el lanzamiento del proyecto [aquí](https://github.com/SergioR29/ChatUDP/releases)
 2. Abrir una ventana de Terminal (CMD si es Windows) para ejecutar cada fichero JAR por separado ya que son el módulo Servidor y el módulo Cliente, es decir, 2 personas diferentes son las que se van a comunicar.
 3. Para ejecutar un fichero JAR:  
   
