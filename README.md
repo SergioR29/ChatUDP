@@ -24,7 +24,7 @@ JVM (17 o 21 recomendados) instalado en el PC de cada una de las 2 personas a co
 5. Para salir del programa, independientemente de que uno sea la persona servidor o cliente tiene que introducir el carácter '.' y darle a la tecla enter.
 
 ## Ejemplo de uso (módulo servidor == persona 1)
-<img width="1347" height="485" alt="Captura de pantalla 2025-11-26 132222" src="https://github.com/user-attachments/assets/13ed8163-8f3a-46e2-9bfc-036b0c1c3593" />
+<img width="674" height="485" alt="Captura de pantalla 2025-11-26 132222" src="https://github.com/user-attachments/assets/13ed8163-8f3a-46e2-9bfc-036b0c1c3593" />
 
 ## Ejemplo de uso (módulo cliente == persona 2)
-<img width="1346" height="566" alt="Captura de pantalla 2025-11-26 132231" src="https://github.com/user-attachments/assets/a9774b27-2185-4b9d-b3ae-2d90c3996068" />
+<img width="673" height="566" alt="Captura de pantalla 2025-11-26 132231" src="https://github.com/user-attachments/assets/a9774b27-2185-4b9d-b3ae-2d90c3996068" />
